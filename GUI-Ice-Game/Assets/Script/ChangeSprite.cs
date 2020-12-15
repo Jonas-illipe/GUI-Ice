@@ -14,7 +14,7 @@ public class ChangeSprite : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if public Healthbar;
 
     }
+    
 }
